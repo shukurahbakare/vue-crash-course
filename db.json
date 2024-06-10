@@ -10,6 +10,12 @@
       "id": 800,
       "text": "Sleep",
       "day": "12am"
+    },
+    {
+      "id": "1ee3",
+      "text": "Wash Plates",
+      "day": "10pm Everyday",
+      "reminder": true
     }
   ]
 }
